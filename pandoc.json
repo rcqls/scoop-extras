@@ -1,0 +1,10 @@
+{
+	"homepage": "http://johnmacfarlane.net/pandoc/",
+	"version": "1.16.0.2",
+	"license": "GPL",
+	"depends": "miktex",
+	"url": "https://github.com/jgm/pandoc/releases/download/1.16.0.2/pandoc-1.16.0.2-windows.msi",
+	"hash": "a21462fc2f61600ed9fcdd85e5e367499497de8dc7ec977b378bd807546b4fa8",
+	"extract_dir": "Pandoc",
+	"bin": "pandoc.exe"
+}
